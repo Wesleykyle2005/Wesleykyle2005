@@ -9,10 +9,4 @@ Soy un estudiante de ingeniería en sistemas con un enfoque en desarrollo web, a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wesleykyle2005&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleykyle2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wesleykyle2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=wesleykyle2005&icon=3&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
