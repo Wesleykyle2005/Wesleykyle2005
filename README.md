@@ -1,16 +1,12 @@
 # 💫 About Me:
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/coffee-working-stressed-5ndklThG9vUUdTmgMn" width="200"/>
+  <img src="https://media4.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif?cid=6c09b95249qvruiwomqa64r3bkya2wwi796a55fsl9pqa4kk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
 </div>
 I am an 18-year-old systems engineering student with a focus on web development, driven by a passion for exploring and mastering new technologies.
-
-<br><br>
-
+<br>
 Continuously immersing myself in learning and practice, I strive to stay abreast of the latest trends and tools in the field.
-
-<br><br>
-
+<br>
 My insatiable curiosity propels me to explore and experiment with various technologies, always seeking to enhance my skills and knowledge in web development.🚀🔍🌐
 
 
