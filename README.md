@@ -3,7 +3,8 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif?cid=6c09b95249qvruiwomqa64r3bkya2wwi796a55fsl9pqa4kk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
 </div>
-Systems Engineering Student | Web Development
+### Systems Engineering Student | Web Development
+<br><br>
 As a dedicated systems engineering student with a focused expertise in web development, I am committed to mastering cutting-edge technologies and delivering robust digital solutions. My academic rigor and hands-on practice are complemented by a disciplined approach to staying current with industry trends, frameworks, and tools.
 <br><br>
 Driven by a passion for innovation, I actively experiment with emerging technologies to refine my technical expertise and adopt best practices. My goal is to contribute to scalable, user-centric applications while continuously advancing my proficiency in full-stack development and software engineering principles.
