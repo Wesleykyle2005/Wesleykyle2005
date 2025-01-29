@@ -3,11 +3,14 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif?cid=6c09b95249qvruiwomqa64r3bkya2wwi796a55fsl9pqa4kk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
 </div>
-I am an 19-year-old systems engineering student with a focus on web development, driven by a passion for exploring and mastering new technologies.
+Systems Engineering Student | Web Development
+As a dedicated systems engineering student with a focused expertise in web development, I am committed to mastering cutting-edge technologies and delivering robust digital solutions. My academic rigor and hands-on practice are complemented by a disciplined approach to staying current with industry trends, frameworks, and tools.
 <br><br>
+Driven by a passion for innovation, I actively experiment with emerging technologies to refine my technical expertise and adopt best practices. My goal is to contribute to scalable, user-centric applications while continuously advancing my proficiency in full-stack development and software engineering principles.
+<br><br>
+Open to collaboration and knowledge-sharing, I aim to leverage my skills to solve complex problems and drive impactful results in the tech landscape.<br><br>
 Continuously immersing myself in learning and practice, I strive to stay abreast of the latest trends and tools in the field.
-<br><br>
-My insatiable curiosity propels me to explore and experiment with various technologies, always seeking to enhance my skills and knowledge in web development.🚀🔍🌐
+
 ---
 
 # 💻 I am skilled in:
