@@ -1,6 +1,5 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/wesleykyle2005?style=plastic&logoSize=50%25&label=Followers&labelColor=%23800080&color=%2300b2df
-"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/wesleykyle2005?style=plastic&logoSize=50%25&label=Stars&labelColor=%23800080&color=%2300b2df
-"> &nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/wesleykyle2005?style=plastic&logoSize=50%25&label=Followers&labelColor=%23800080&color=%2300b2df)
+![GitHub stars](https://img.shields.io/github/stars/wesleykyle2005?style=plastic&logoSize=50%25&label=Stars&labelColor=%23800080&color=%2300b2df)
 
 <!-- Animated intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas-neue&weight=600&size=55&duration=1000&pause=4000&color=00b2df&vCenter=true&width=1000&height=150&lines=Hi%2C+I'm+Wesley)](https://git.io/typing-svg)
