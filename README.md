@@ -11,23 +11,16 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🎓 I'm Wesley</strong>, a Systems Engineering student at the National University of Engineering in Nicaragua.<br>
-      🧠 I specialize in <strong>backend engineering</strong>, automation, and building robust systems that combine architectural clarity with practical business value.<br>
-      🔩 My core tech stack includes .NET, php, Django, FastAPI, PostgreSQL, Docker, and cloud services like AWS and Azure.<br>
-      ⚙️ I’m also experienced in automation platforms like UiPath and n8n for optimizing enterprise workflows.<br>
-      🌐 While backend is my domain, I complement it with functional frontend skills in React, jQuery, and WordPress for full-stack integration when needed.
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="images/octocat-1753241585131.png" width="100%" alt="Octocat">
-    </td>
-  </tr>
-</table>
+- 🎓 I'm **Wesley**, a **Systems Engineering student** at the National University of Engineering in Nicaragua. <img src="images/octocat-1753241585131.png" width="50%" align="right"/>
+
+- 🧠 I specialize in <strong>backend engineering</strong>, automation, and building robust systems that combine architectural clarity with practical business value.<br>
+- 🔩 My core tech stack includes .NET, php, Django, FastAPI, PostgreSQL, Docker, and cloud services like AWS and Azure.<br>
+- ⚙️ I’m also experienced in automation platforms like UiPath and n8n for optimizing enterprise workflows.<br>
+- 🌐 While backend is my domain, I complement it with functional frontend skills in React, jQuery, and WordPress for full-stack integration when needed.
 
 ```js
-I believe persistence is the most important skill in software development — it's how we solve what others consider unsolvable.
+I believe persistence is the most important skill in software development 
+— it's how we solve what others consider unsolvable.
 ```
 ---
 
