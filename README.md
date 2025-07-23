@@ -1,3 +1,7 @@
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/wesleykyle2005?style=plastic&logoSize=50%25&label=Followers&labelColor=%23800080&color=%2300b2df
+"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/wesleykyle2005?style=plastic&logoSize=50%25&label=Stars&labelColor=%23800080&color=%2300b2df
+"> &nbsp;&nbsp;
+
 <!-- Animated intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas-neue&weight=600&size=55&duration=1000&pause=4000&color=00b2df&vCenter=true&width=1000&height=150&lines=Hi%2C+I'm+Wesley)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas-Neue&weight=800&size=45&duration=1000&pause=4000&color=00b2df&center=true&vCenter=true&width=1500&height=150&lines=Backend+Engineer+|+Automation+Driven+|+Business+Focused)](https://git.io/typing-svg)
@@ -11,7 +15,7 @@
 
 ---
 
-- 🎓 I'm **Wesley**, a **Systems Engineering student** at the National University of Engineering in Nicaragua. <img src="images/octocat-1753241585131.png" width="50%" align="right"/>
+- 🎓 I'm **Wesley**, a **Systems Engineering student** at the National University of Engineering in Nicaragua. <img src="images/octocat-1753241585131.png" width="400" align="right"/>
 
 - 🧠 I specialize in <strong>backend engineering</strong>, automation, and building robust systems that combine architectural clarity with practical business value.<br>
 - 🔩 My core tech stack includes .NET, php, Django, FastAPI, PostgreSQL, Docker, and cloud services like AWS and Azure.<br>
